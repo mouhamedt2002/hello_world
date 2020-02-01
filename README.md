@@ -14,7 +14,7 @@ They can also change everything back to normal once they click the background.
 ### App Walk-though
 
 
-<img src="https://recordit.co/n87LVIW5Ra" width=200><br>
+<img src="http://g.recordit.co/n87LVIW5Ra.gif" width=200><br>
 
 
 ### Required User Stories
