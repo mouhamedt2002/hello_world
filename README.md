@@ -1,12 +1,18 @@
 ## Hello World App
 
 ### App Description
-The app sees my custom text and background. I have buttons that lets the user:
-change the text's color
-change background's color
-change the text string's label to whatever they want
-  there is a text box that lets them write whatever they want, then press the 'change text' button to change the text view.
-  if the text box is empty, the text view returns to its original text, which is "hello from Mouhamed."
+`TODO://`
+
+The app sees my custom text, background,and buttons. I have buttons that lets the user:
+
+change the text's color,
+
+change background's color,
+
+change the text string's label to whatever they want.
+
+  (there is a text box that lets them write whatever they want, then press the 'change text' button to change the text view.
+  If the text box is empty, the text view returns to its original text, which is "hello from Mouhamed.")
 
 They can also change everything back to normal once they click the background.
 
